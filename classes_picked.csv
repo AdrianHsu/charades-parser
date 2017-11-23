@@ -1,3 +1,10 @@
-c065 Eating a sandwich, 459
-c021 Opening a bag, 356
-c102 Tidying up with a broom, 237
+class name, num of matches in Charades_vu17_train.csv, num of lines for all those presense(因為可能一行內喝兩次水), num of picked (一行內沒有重複動作的, 且此動作不是第一個出現)
+c021 Opening a bag, 356, 351, 280
+c065 Eating a sandwich, 459, 453, 280
+c102 Tidying up with a broom, 237, 235, 176
+
+---
+class name, num of matches in Charades_vu17_validation.csv, num of lines for all those presense(因為可能一行內喝兩次水), num of picked (一行內沒有重複動作的, 且此動作不是第一個出現)
+c021 Opening a bag, -,-, 74
+c065 Eating a sandwich, -, -, 74
+c102 Tidying up with a broom, -, -, 42
