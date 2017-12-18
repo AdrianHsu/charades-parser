@@ -1,0 +1,10 @@
+c111 Washing a cup/glass/bottle
+c010 Sitting on a table
+c140 Fixing a doorknob
+c121 Wash a dish/dishes
+c005 Washing some clothes
+c066 Making a sandwich
+c082 Tidying a shelf or something on a shelf
+c007 Fixing a door
+c091 Washing a window
+c129 Taking/consuming some medicine
