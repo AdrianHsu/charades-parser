@@ -165,8 +165,8 @@ conf = tf.ConfigProto(
     )
 
 
-train_files = [l.strip() for l in open( "train.txt")]
-test_files = [l.strip() for l in open( "test.txt")]
+train_files = [l.strip() for l in open( "picked_train.txt")]
+test_files = [l.strip() for l in open( "picked_test.txt")]
 
 num_train = len(train_files)
 num_test  = len(test_files)

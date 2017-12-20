@@ -13,9 +13,9 @@ for row in reader:
   if acts == "":
     continue
   
-  line = ""
   acts = acts.split(';')
   for a in acts:
+    line = ""
     tokens = a.split()
 #    if tokens[0] not in valid:
 #      continue
@@ -24,7 +24,7 @@ for row in reader:
     te = float( tokens[2] )
     ts = int( 0 )# round( ts*vfps[vid] ) )
     te = int( 0 )# round( te*vfps[vid] ) )
-    line = line + tokens[0] + " " + str(ts) + " " + str(te) + ";"
+    line = line + tokens[0] + " " + str(ts) + " " + str(te)
     outputfile.write( vid + "|" + line + "\n" )
 
   if line == "":
