@@ -1,0 +1,157 @@
+439 Walking through a doorway
+393 Someone is smiling
+381 Someone is standing up from somewhere
+380 Holding a cup/glass/bottle of something
+368 Sitting in a chair
+367 Holding some food
+300 Drinking from a cup/glass/bottle
+285 Putting something on a table
+279 Someone is going from standing to sitting
+273 Opening a door
+273 Someone is eating something
+267 Holding a dish
+265 Holding a phone/camera
+245 Taking food from somewhere
+240 Taking a cup/glass/bottle from somewhere
+238 Grasping onto a doorknob
+227 Holding some clothes
+211 Someone is laughing
+211 Putting a cup/glass/bottle somewhere
+211 Holding a book
+211 Putting some food somewhere
+209 Putting clothes somewhere
+208 Holding a towel/s
+204 Closing a door
+199 Opening a closet/cabinet
+197 Sitting at a table
+189 Sitting on sofa/couch
+187 Playing with a phone/camera
+186 Holding a bag
+180 Taking some clothes from somewhere
+175 Someone is sneezing
+174 Holding a blanket
+154 Putting something on a shelf
+152 Tidying something on the floor
+150 Watching/Reading/Looking at a book
+146 Taking a dish/es from somewhere
+145 Someone is holding a paper/notebook
+145 Putting a dish/es somewhere
+143 Sitting in a bed
+142 Sitting on the floor
+135 Throwing something on the floor
+134 Closing a closet/cabinet
+134 Someone is undressing
+134 Watching something/someone/themselves in a mirror
+131 Watching a laptop or something on a laptop
+120 Holding a sandwich
+120 Someone is dressing
+118 Putting a towel/s somewhere
+116 Holding a pillow
+115 Taking a phone/camera from somewhere
+115 Holding a box
+113 Throwing clothes somewhere
+112 Someone is running somewhere
+111 Eating a sandwich
+109 Taking a towel/s from somewhere
+109 Snuggling with a blanket
+108 Watching television
+106 Holding a broom
+105 Holding a laptop
+97 Taking a book from somewhere
+97 Putting a blanket somewhere
+96 Working at a table
+96 Opening a book
+95 Tidying some clothes
+95 Working/Playing on a laptop
+92 Tidying a shelf or something on a shelf
+91 Opening a bag
+88 Watching/Looking outside of a window
+87 Holding a shoe/shoes
+85 Someone is awakening somewhere
+84 Putting a book somewhere
+83 Tidying up a closet/cabinet
+80 Putting groceries somewhere
+79 Taking a blanket from somewhere
+78 Watching/looking at a picture
+78 Lying on a bed
+77 Taking a box from somewhere
+77 Washing something with a towel
+76 Someone is cooking something
+76 Taking a bag from somewhere
+74 Working on paper/notebook
+74 Putting a bag somewhere
+73 Turning on a light
+73 Putting shoes somewhere
+72 Tidying up a table
+72 Putting a box somewhere
+71 Taking a picture of something
+71 Putting a phone/camera somewhere
+71 Holding some medicine
+69 Holding a vacuum
+68 Closing a book
+68 Opening a box
+67 Snuggling with a pillow
+65 Throwing a towel/s somewhere
+64 Tidying up a towel/s
+63 Taking off some shoes
+62 Lying on a sofa/couch
+61 Throwing a blanket somewhere
+60 Taking paper/notebook from somewhere
+60 Fixing their hair
+60 Taking shoes from somewhere
+59 Putting their paper/notebook somewhere
+59 Tidying up a blanket/s
+58 Opening a refrigerator
+58 Taking something from a box
+58 Putting a pillow somewhere
+57 Taking a sandwich from somewhere
+57 Holding a picture
+56 Tidying up with a broom
+56 Pouring something into a cup/glass/bottle
+54 Smiling at a book
+53 Taking a broom from somewhere
+51 Taking a pillow from somewhere
+50 Turning off a light
+49 Putting a laptop somewhere
+48 Lying on the floor
+46 Closing a box
+46 Putting a sandwich somewhere
+45 Reaching for and grabbing a picture
+45 Someone is awakening in bed
+45 Closing a refrigerator
+44 Putting a broom somewhere
+42 Talking on a phone/camera
+42 Smiling in a mirror
+42 Putting on shoe/shoes
+37 Taking a laptop from somewhere
+37 Taking/consuming some medicine
+33 Washing their hands
+32 Throwing shoes somewhere
+32 Closing a laptop
+30 Wash a dish/dishes
+30 Putting a picture somewhere
+30 Opening a laptop
+28 Throwing a pillow somewhere
+28 Fixing a door
+25 Taking a vacuum from somewhere
+24 Holding a mirror
+23 Washing some clothes
+22 Throwing food somewhere
+21 Throwing a book somewhere
+21 Throwing a bag somewhere
+20 Fixing a doorknob
+20 Washing a cup/glass/bottle
+17 Opening a window
+16 Sitting on a table
+15 Laughing at a picture
+15 Fixing a light
+14 Washing a table
+13 Laughing at television
+13 Making a sandwich
+10 Closing a window
+9 Fixing a vacuum
+9 Washing a mirror
+8 Throwing a broom somewhere
+7 Washing a window
+7 Standing on a chair
+6 Throwing a box somewhere
