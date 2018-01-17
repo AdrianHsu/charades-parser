@@ -1,6 +1,6 @@
 import csv
 
-#valid = ["c059", "c011", "c151", "c156", "c149"]
+valid = ["c060", "c103", "c083", "c088", "c041", "c044", "c046", "c049", "c128", "c129"]
 
 reader= csv.DictReader( open( "train.csv" ) )
 outputfile = open( "picked_train.txt", 'w' )
@@ -17,8 +17,8 @@ for row in reader:
   for a in acts:
     line = ""
     tokens = a.split()
-#    if tokens[0] not in valid:
-#      continue
+    if tokens[0] not in valid:
+      continue
 
     ts = float( tokens[1] )
     te = float( tokens[2] )
