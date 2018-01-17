@@ -9,7 +9,7 @@ SAMPLE_VIDEO_TRAIN = 10
 SAMPLE_VIDEO_TEST  = 25           # Sample this many frames per video
 BATCH = 40   # Process this many videos concurrently
 LR = 1e-3
-C = 157
+C = 10
 
 PRINT_EVERY = 25
 
@@ -83,8 +83,8 @@ def save_to_eval( vidids, data, outputname = "output.txt" ):
   outputfile.close()
 
 
-# label_dict = { 'c008' : 0, 'c009' : 1, 'c081' : 2, 'c112' : 3 }   # For subset
-label_dict = { 'c'+str(i).zfill(3) : i for i in range( 157 )}     # For full Dataset
+label_dict = { 'c060' : 0, 'c103' : 1, 'c083' : 2, 'c088' : 3, 'c041' : 4, 'c044' : 5, 'c046' : 6, 'c049' : 7, 'c128' : 8, 'c129' : 9 }   # For subset
+#label_dict = { 'c'+str(i).zfill(3) : i for i in range( 157 )}     # For full Dataset
 
 # Unfortunately, the features were sampled at 24 fps --> We need to recover the correct frame number
 fps_dict = { l.strip().split(' ')[0] : float( l.strip().split(' ')[1] ) for l in open( "video_fps.txt" ) }
