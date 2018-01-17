@@ -1,0 +1,7 @@
+1	c060	Standing on a chair\n	c103	Fixing a light\n, 11.58 
+6	c111	Washing a cup/glass/bottle\n	c121	Wash a dish/dishes\n 10.43
+11	c142	Closing a refrigerator\n	c143	Opening a refrigerator\n	10.18
+20	c133	Someone is awakening in bed\n	c134	Lying on a bed\n 9.99
+29	c046	Closing a laptop\n	c049	Putting a laptop somewhere\n	9.82
+99	c065	Eating a sandwich\n	c069	Taking a sandwich from somewhere\n	9.05
+389 c015	Holding a phone/camera\n	c019	Talking on a phone/camera\n	7.90
